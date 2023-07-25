@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Suraj Patel
-- 👀 I’m interested in 
 - 🌱 I’m currently learning machine learning, and artifiical intelligence.
 
 <!---
