@@ -42,9 +42,6 @@
   <a href="https://www.huggingface.com/suru">
     <img src="https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-orange" alt="HuggingFace"/>
   </a>
-  <a href="mailto:pgp53@scarletmail.rutgers.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 > Let’s connect and build something impactful together!”*
