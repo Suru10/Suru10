@@ -25,14 +25,14 @@
 | **Data Engineering** | SQL, Spark, Delta Lake, streaming ingestion |
 | **Dev Tools** | Python 3.13, Rust, Bash, VS Code, Git |
 
-### Highlight Projects
+### 🚀 Highlight Projects
 | Project | What it does | Tech |
 |---------|--------------|------|
-| **Multi‑Agent Literature Review Bot** | Auto‑generates concise reviews from arXiv papers | AutoGen · LangChain · Streamlit |
-| **Sales Performance Optimization** | RAG + agents deliver KPIs & actionable insights from AdventureWorks | Bedrock · Snowflake · Streamlit |
-| **EchoNJ** | Voice‑driven navigation assistant for visually impaired NJ Transit riders | GPT‑4o · React Native |
+| **Agentic Business Solution** | Multi‑agent Autogen system that interprets any relational DB, writes optimized SQL from natural‑language questions, builds charts, and serves a polished Streamlit dashboard of insights | Autogen · LangChain · SQLAlchemy · Streamlit · Matplotlib/Plotly |
+| **Bhagavad Gita LLM** | Fine‑tuned Llama‑2‑7B with LoRA on Sanskrit & English verses of the Bhagavad Gita; open‑sourced for community Q&A and devotional study | PyTorch · PEFT/LoRA · Hugging Face Transformers · BitsAndBytes |
+| **LLM Web Scraping Pipeline** | CI/CD‑driven scraper that checks legal terms, then uses OpenAI GPT‑4 & Flan‑T5 with Selenium to extract contact info from public pages | GitHub Actions · Docker · Selenium · OpenAI API · Flan‑T5 |
 
-*(More coming soon—watch this space!)*
+
 
 ### Find Me Online
 <p align="left">
@@ -47,14 +47,5 @@
   </a>
 </p>
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj10&show_icons=true&theme=default" alt="Suraj’s GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj10" alt="GitHub Streak"/>
-</p>
-
----
-
-> *“Turning cutting‑edge research into scalable products is my jam.  
 > Let’s connect and build something impactful together!”*
 
